@@ -3,11 +3,11 @@
 
 ### Contents of project
 
-- Introduction to the project
-- Current Features/Planned Features
-- [Project Progress](https://github.com/HarryCS98/public-toilet-Android-App/blob/main/README.md#download-link)
+- [Introduction to the project](https://github.com/HarryCS98/public-toilet-Android-App#introduction-to-the-project)
+- [Current Features/Planned Features](https://github.com/HarryCS98/public-toilet-Android-App#current-featuresplanned-features)
+- [Project Progress](https://github.com/HarryCS98/public-toilet-Android-App#project-progress)
 - [Dowload Link](https://github.com/HarryCS98/public-toilet-Android-App/blob/main/README.md#download-link)
-- Source Code
+- [Source Codek](https://github.com/HarryCS98/public-toilet-Android-App#source-code)
 
 
 
