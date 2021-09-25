@@ -5,9 +5,8 @@
 
 - Introduction to the project
 - Current Features/Planned Features
-- Screen shots from project
-- Video of the project in action
-- Download Link
+- [Project Progress](https://github.com/HarryCS98/public-toilet-Android-App/blob/main/README.md#download-link)
+- [Dowload Link](https://github.com/HarryCS98/public-toilet-Android-App/blob/main/README.md#download-link)
 - Source Code
 
 
@@ -49,7 +48,7 @@ This project was created after a friend of mine was diagnosed with Crohns diseas
 
 
 
-  ## Screen shots/GIFs from project
+  ## Project Progress
 
 **Locations loaded from database:**
 
