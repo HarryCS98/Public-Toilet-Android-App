@@ -60,11 +60,10 @@ This project was created after a friend of mine was diagnosed with Crohns diseas
 
 [![Image from Gyazo](https://i.gyazo.com/dd5aa454b2f843c77e1fb6c44e03f7af.png)](https://gyazo.com/dd5aa454b2f843c77e1fb6c44e03f7af)
 
-**Custom Clustering:**
+**Custom Clustering: [More Custering GIF's](https://i.gyazo.com/eb3681cb010b6e687c8994a0cbee8eef.gif)**
 
 
 [![Image from Gyazo](https://i.gyazo.com/e52316cc18ab55bebd98a3ff1605f73e.gif)](https://gyazo.com/e52316cc18ab55bebd98a3ff1605f73e)
-
 
 
 
