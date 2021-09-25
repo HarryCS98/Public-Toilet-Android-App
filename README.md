@@ -1,4 +1,4 @@
-# Public toilet Android APP (Work In Progress)
+# Public toilet Android App (Work In Progress)
 
 
 ### Contents of project
